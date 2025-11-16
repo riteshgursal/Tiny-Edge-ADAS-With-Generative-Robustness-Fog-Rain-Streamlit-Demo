@@ -145,7 +145,7 @@ Generative Weather Augmentation (custom code)
 
 ---
 
-**📌 Use-Case Alignment (NCCU Project P3)**
+**📌 Use-Case Alignment (NCCU Project)**
 
 This project demonstrates:
 
@@ -157,7 +157,7 @@ This project demonstrates:
 
 Perfectly aligned with:
 
-**P3 — Generative Robustness & Tiny-Edge ADAS for Smart Systems**
+**Generative Robustness & Tiny-Edge ADAS for Smart Systems**
 
 🧪 Example Outputs
 
